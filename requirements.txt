@@ -1,0 +1,8 @@
+# RAG study assistant — local only (no paid APIs)
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-core>=0.2.0
+langchain-text-splitters>=0.2.0
+faiss-cpu>=1.8.0
+sentence-transformers>=2.2.0
+pypdf>=4.0.0
